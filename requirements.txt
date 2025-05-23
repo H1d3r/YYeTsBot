@@ -1,12 +1,12 @@
-requests==2.24.0
+requests==2.32.2
 pytelegrambotapi==3.7.7
 beautifulsoup4==4.9.1
 tgbot-ping
 redis==3.5.3
 apscheduler==3.6.3
-pymongo==3.11.2
-tornado==6.0.4
+pymongo==4.6.3
+tornado==6.5.1
 redis==3.5.3
 
 passlib==1.7.4
-cryptography==3.4.7
+cryptography==44.0.1
